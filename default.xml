@@ -6,10 +6,10 @@
            review="https://android-review.googlesource.com/" />
   <remote  name="grapheneos"
            fetch="https://github.com/GrapheneOS/"
-           revision="refs/heads/14" />
+           revision="refs/tags/2023101100" />
   <remote  name="grapheneos-gitlab"
            fetch="https://gitlab.com/grapheneos/"
-           revision="refs/heads/14" />
+           revision="refs/tags/2023101100" />
   <default revision="refs/tags/android-14.0.0_r1"
            remote="aosp"
            sync-j="4" />
